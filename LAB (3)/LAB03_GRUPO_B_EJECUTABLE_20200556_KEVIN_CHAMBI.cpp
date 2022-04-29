@@ -21,7 +21,7 @@ int main(int argc, char const *argv[])
 //Ejercicio 2
 /*
 void bisiesto(int a){
-    if(a%4 == 0 && a%100 != 0 || a%400 == 0) //Condición de año bisiesto
+    if(a%4 == 0 && a%100 != 0 || a%400 == 0)
       cout<<"El anio "<<a<<" es bisiesto"<<endl;
     else
       cout<<"El anio "<<a<<" no es bisiesto"<<endl;
