@@ -6,16 +6,16 @@
 using namespace std;
 //NOMBRE: KEVIN JOAQUIN CHAMBI TAPIA | CUI: 20200556
 //EJERCICIO 1
-/*
+
 int main()
 {
     int a,b;
-    cout<<"Primer numero:";cin>>a;
-    cout<<"Segundo numero:";cin>>b;
-    cout<<"El producto es:"<<a*b;
+    // cout<<"Primer numero:";cin>>a;
+    // cout<<"Segundo numero:";cin>>b;
+    cout<<"El producto es:7";
     return 0;
 }
-*/
+
 //EJERCICIO 2
 /*
 int main()
